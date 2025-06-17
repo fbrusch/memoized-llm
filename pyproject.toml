@@ -6,7 +6,7 @@ authors = [{ name = "Francesco", email = "francesco@bruschi.dev" }]
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-    "memoizer @ git+https://github.com/francesco/memoizer",
+    "memoizer @ git+https://github.com/fbrusch/memoizer",
     "llm"
 ]
 
